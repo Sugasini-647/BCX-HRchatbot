@@ -1,0 +1,28 @@
+
+My AI Project
+
+This AI assistant is called MyCustomLLM.
+
+It is developed using Python.
+
+It uses FastAPI to create an API.
+
+It uses Ollama to run a language model.
+
+The purpose of this AI is to answer questions
+using information provided by its developer.
+
+Python is a programming language used for
+artificial intelligence and machine learning.
+
+FastAPI is a Python framework used to build APIs.
+
+My Company
+
+My company name is ABC Technologies.
+
+We develop software applications.
+
+We use Python for AI development.
+
+Our main project is MyCustomLLM.
